@@ -12,5 +12,3 @@ Why do you think some version control systems, like Git, allow saving multiple f
 Because version control system like Git is created for saving different versions in web apps or programms which contains from a lot of files which have a lot of relations between files.
 
 Google Docs ussually doesn't have relations between files.
-
-test
