@@ -1,1 +1,5 @@
 Добавил новый файл на через вебинтерфейс гитхаб, чтобы посмотреть, что произойдет.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because it allow me to have full control under which version of code is more important for me
